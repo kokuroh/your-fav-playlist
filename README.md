@@ -279,6 +279,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="http://anthonylee.asia"><img src="https://avatars1.githubusercontent.com/u/35132441?v=4" width="120px;" alt=""/><br /><sub><b>Anthony Lee</b></sub></a><br /><a href="#content-Mbahmo" title="Content">🖋</a></td>
     <td align="center"><a href="http://hafizcode02.github.io"><img src="https://avatars2.githubusercontent.com/u/53365353?v=4" width="120px;" alt=""/><br /><sub><b>Hafiz Caniago</b></sub></a><br /><a href="#content-Hafizcode02" title="Content">🖋</a></td>
     <td align="center"><a href="http://lab-ekickx.my.id"><img src="https://avatars1.githubusercontent.com/u/26477782?v=4" width="120px;" alt=""/><br /><sub><b>Ghani Rafif</b></sub></a><br /><a href="#content-ekickx" title="Content">🖋</a></td>
+    <td align="center"><a href="http://github.com/kokuroh"><img src="https://avatars1.githubusercontent.com/u/72267785?v=4" width="120px;" alt=""/><br /><sub><b>Kokuroh</b></sub></a><br /><a href="#content-kokuroh" title="Content">🖋</a></td>
   </tr>
 </table>
 
